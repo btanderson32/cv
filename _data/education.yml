@@ -1,0 +1,14 @@
+- layout: left
+  name: Molloy College
+  dates: 2016 - 2018
+  qualification: Management and Leadership, MBA 
+  description: | # this will include new lines to allow paragraphs
+    During my time at Molloy I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. I also played Lacrosse for the college team.
+
+    *GPA: 3.8*
+- layout: left
+  name: Siena College
+  dates: 2010 - 2014
+  qualification: Marketing, BS 
+  description: | # this will include new lines to allow paragraphs
+    During my time at Siena I participated Marketing, Computer Science, and Management related activities. I also played Lacrosse for the College team.

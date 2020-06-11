@@ -1,0 +1,61 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Bryan Anderson
+title: Captain at Islip Ferries
+email: bryan-mba@pm.me
+website: https://bryan-mba.github.io/cv/
+
+# Social links
+twitter_username: 
+github_username:  
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: 
+linkedin_username: 
+# pinterest_username: jekyll
+youtube_username: 
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Bryan and I'm a Captain for Islip Ferries. I also played Lacrosse for Siena College. I have excellent communications, organziation and leadership skills.
+  I am highly interested in Digital Marketing and Operations related opportunities.
+
+  I am most skilled in: <mark>Data Analytics</mark> and <mark>Digital Marketing</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in marketing and operations some of my other interests and hobbies are:
+   - Weight Lifting
+   - Gaming
+   - Building Custom Keyboards
+   
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
