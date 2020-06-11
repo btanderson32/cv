@@ -6,18 +6,21 @@ favicon: images/favicon.ico
 name: Bryan Anderson
 title: Captain at Fire Island Ferries
 email: btanderson32@gmail.com
-website: https://btanderson32.github.io/cv/
+website: http://bryananderson.xyz
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Social links
-twitter_username: 
-github_username:  
+#twitter_username: 
+github_username: btanderson32 
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: 
-linkedin_username: 
+#instagram_username: 
+linkedin_username: bryan-anderson-b4969552
 # pinterest_username: jekyll
-youtube_username: 
+#youtube_username: 
 # googleplus_username: +jekyll
 
 # About Section
